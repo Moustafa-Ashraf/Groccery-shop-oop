@@ -1,0 +1,7 @@
+Q1) a)false
+      true
+      true
+      false
+
+    b) cannot be comiled
+    c) can be compiled
